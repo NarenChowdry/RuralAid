@@ -1,0 +1,14 @@
+.adminDashboard {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .dashboardContainer {
+    display: flex;
+  }
+  
+  .dashboardContent {
+    flex: 4;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
